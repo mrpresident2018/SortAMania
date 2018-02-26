@@ -1,4 +1,5 @@
 
-public class SortAMania {
-
+public class SortAMania 
+{
+	
 }
